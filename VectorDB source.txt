@@ -1,5 +1,7 @@
 Tell about Muneer?
 My name is Muneer Raza, currently advancing through my 6th semester at FAST National University of Computer and Emerging Sciences. My academic journey is focused on the Bachelor of Artificial Intelligence program, where I am honing my skills to become an expert in the field. My date of birth is 25, June, 2003.
+
+Contact Information
 My contact number is: +92 330 8243046
 My github link:https://github.com/MuneerRaza
 My linkedin link:https://www.linkedin.com/in/muneer-raza-09b2b3222/
