@@ -1,0 +1,43 @@
+Tell about Muneer?
+My name is Muneer Raza, currently advancing through my 6th semester at FAST National University of Computer and Emerging Sciences. My academic journey is focused on the Bachelor of Artificial Intelligence program, where I am honing my skills to become an expert in the field. My date of birth is 25, June, 2003.
+My contact number is: +92 330 8243046
+My github link:https://github.com/MuneerRaza
+My linkedin link:https://www.linkedin.com/in/muneer-raza-09b2b3222/
+
+
+Skills
+- Programming Proficiency: Skilled in Python and Java, with a strong foundation in object-oriented programming and software development principles.
+- Machine Learning & AI: Proficient in machine learning and deep learning techniques, with a deep understanding of large language models and their applications.
+- Data Science Expertise: Well-versed in data science methodologies, including statistical analysis, data visualization, and predictive modeling using SQL, NoSQL, TensorFlow, Keras, PyTorch, Pandas, NumPy, Scikit-learn, and Matplotlib.
+- Mobile & Web Development: Experienced in mobile app development using Flutter and Android SDK, with a focus on creating responsive and user-friendly applications. Knowledgeable in web development frameworks and database management using Firebase and MongoDB.
+- Computer Vision & NLP: Adept in natural language processing and computer vision tasks, utilizing libraries such as OpenCV and implementing models for image and text analysis.
+
+ Personal Attributes
+- Quick Learner: I have a natural propensity for rapidly acquiring new skills and knowledge, adapting to new tools and technologies with ease.
+- Adaptability: My experiences have equipped me with the ability to thrive in diverse environments, demonstrating flexibility and resilience.
+- Passion for Learning: Driven by an insatiable curiosity, I am constantly seeking out new challenges and opportunities to expand my expertise.
+
+AI Projects
+1. Skill Chat Assistant: Developed a sophisticated RAG system named 'Skill Chat' that serves as a virtual assistant for recruiters. This system leverages the power of LlamaIndex and Llama2 models to provide insightful information about my professional profile.
+2. Facial Emotion Analysis: Engineered an advanced emotion recognition system capable of accurately classifying human emotions. This system utilizes the Inception Resnet architecture and transfer learning techniques, trained on the comprehensive FER 2013 dataset.
+3. Aquatic Vision Enhancement: Currently spearheading a project focused on enhancing underwater imagery. This initiative employs a cutting-edge Transformer-based Diffusion Model complemented by an Adaptive Skipping Frequency Mechanism, which incorporates both spatial and channel-wise attention modules for superior image quality.
+4. Mitotic Cell Detection: Successfully implemented Yolov8 to identify mitotic cells within histopathology images, contributing to advancements in medical imaging analysis.
+5. Biterm Text Distance Measurement (BDM): Innovated a novel Context-Aware Weighted Biterm Method designed to measure the distance between short texts, overcoming the inherent challenges of sparsity, noise, and ambiguity prevalent in such texts.
+6. Cifar-10 Image Classification: Demonstrated expertise in image classification by developing a model that accurately categorizes images from the Cifar-10 dataset.
+7. Image Segmentation: Excelled in segmenting complex images into distinct regions, facilitating better analysis and understanding of visual data.
+8. Resume Entity Recognition (NER): Created a named entity recognition system tailored for resumes, capable of extracting and identifying key entities, streamlining the recruitment process.
+9. Plant Disease Diagnosis:** Utilized the VGG16 model to detect and classify plant diseases, aiding in agricultural health management.
+10. COVID-19 Radiological Analysis: Pioneered a diagnostic tool that leverages radiology images to detect COVID-19, contributing to the global effort in pandemic management.
+
+ Application Development projects
+11. Stoxact Inventory Management: Architected an Android application named 'Stoxact' for efficient inventory management. This app integrates Firebase for authentication and real-time database operations, showcasing my ability to implement multithreading for enhanced performance.
+12. Resumate Professional Network: Developed 'Resumate', a Flutter-based application akin to LinkedIn. This platform enables users to apply for jobs and companies to post vacancies, utilizing an sqflite database for data management.
+
+ Achievements
+- Triumphed in the ML & DS Competition at NED University's AI FEST 4.0, showcasing my prowess in the field.
+- Secured the 3rd position in SOFTEC AIC by FAST Lahore, demonstrating my innovative solutions in AI.
+- Consistently recognized on the Dean's List for Fall 2021, Spring 2022, and Fall 2022, reflecting my dedication to academic achievement.
+
+ Work Experince
+- Student Lab Assistant at FAST National University (08/2023 - 12/2023)
+
